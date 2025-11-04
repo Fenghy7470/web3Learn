@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "arr",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "index",
+						"type": "uint256"
+					}
+				],
+				"name": "remove",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/solidity_by_example/014ArrayReplaceFromEnd.sol": "ArrayReplaceFromEnd"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/solidity_by_example/014ArrayReplaceFromEnd.sol": {
+			"keccak256": "0x525b1f8e5780e04c2ea1db646716b8bfcebdfbc0ae18eff17bcf9b79cf409165",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b271b3929c5df1f8512be4b8ba00abd5db336c1186856332fbb8b9a9dcb554e3",
+				"dweb:/ipfs/QmZW4vrfCjdKS1XALewj9tnyQ7ViuQ2eiby1mpjVRa4aJ6"
+			]
+		}
+	},
+	"version": 1
+}
