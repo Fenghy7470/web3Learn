@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"contracts/solidity_by_example/001Helloword.sol": {
-			"keccak256": "0x13da9d13197e105b88d4974c5d24bbe4960041f77fd9377c4661132b751eb536",
+			"keccak256": "0x430d994ab62d19bf6f2369e4203ee35c89a609d493c8ed484f3a3e08c254860d",
 			"license": "NIT",
 			"urls": [
-				"bzz-raw://0de77fe5fe7c7127f102ae5a63cab14c57093feab16d417996521670ce448075",
-				"dweb:/ipfs/QmWMy1D43uJ4bqa3c2vyBNMcsXfzJqoqfhndjTK4FNuyz9"
+				"bzz-raw://e1f61c65e4e4f538bf848ec0c6114e1e181d87b6c1e053a585c9d1b6a8f525cd",
+				"dweb:/ipfs/QmNbbnqyVMxECgUmQ4L49fLL7jyzLeystUq79rBVLh6P7A"
 			]
 		}
 	},
